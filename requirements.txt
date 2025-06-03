@@ -3,3 +3,4 @@ PyPDF2
 textstat
 Pillow
 PyMuPDF
+OpenAI
