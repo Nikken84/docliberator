@@ -1,0 +1,5 @@
+streamlit
+PyPDF2
+textstat
+Pillow
+PyMuPDF
